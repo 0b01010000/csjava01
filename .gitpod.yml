@@ -1,7 +1,7 @@
 image: gitpod/workspace-full
 
 vscode:
-  extentions:
+  extensions:
   - CodeSandbox-io.codesandbox-projects-theme
   - ms-vscode.hexeditor
   - tonybaloney.vscode-pets
